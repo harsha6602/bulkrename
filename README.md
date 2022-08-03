@@ -12,7 +12,7 @@
 ## Usage:
 1. Download `main.py`
 2. Then run the code in command prompt or any ide.
-3. Then enter the folder path or copy paste the file path <br/> 
+3. Then enter the folder path or copy paste the folder path <br/> 
    ![image](https://user-images.githubusercontent.com/108540874/182696045-f4eacb62-6e73-45fb-b155-d83e4b84b0ec.png)
 4. Then check if the path of the folder and the number of items are correct.
     - And if yes then enter "y"
