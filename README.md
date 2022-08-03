@@ -1,7 +1,7 @@
 # **bulkrename**
 
 - A simple code to alter the names of every object or file in a folder at once.
-- This will be useful in creating a dataset with large objects for which custom names may be provided.
+- This will be useful in creating a dataset with large number of objects or items for which custom names may be provided.
 
 > Sample
     ![image](https://user-images.githubusercontent.com/108540874/182695852-0c260778-1b4c-4c41-8e65-ce600ccd3818.png)
