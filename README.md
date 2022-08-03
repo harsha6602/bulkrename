@@ -19,7 +19,7 @@
     - if not enter "n" and again run the code from begining.<br />
       ![image](https://user-images.githubusercontent.com/108540874/182696696-0ba06d3d-c1d1-433d-a88e-c74f158ea92b.png)
 5. Then enter the **name** to be changed to:
-      Names will be in the form: ***name**_**index**.filetype*<br />
+      Names will be in the form:  ` name_index.filetype `<br />
       ![image](https://user-images.githubusercontent.com/108540874/182691427-8d17bc19-1026-401a-a5cd-16642bcde382.png)
 
 6. Then enter the index you want to start from:<br />
