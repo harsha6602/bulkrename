@@ -6,7 +6,7 @@
 > Sample
     ![image](https://user-images.githubusercontent.com/108540874/182695852-0c260778-1b4c-4c41-8e65-ce600ccd3818.png)
 
-## requirs:
+## Requires:
   - Python
 
 ## Usage:
