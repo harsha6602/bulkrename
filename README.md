@@ -1,6 +1,6 @@
 # **bulkrename**
 
-- A straightforward code to update the names of several things in a folder all at once in the manner you choose.
+- A simple code to alter the names of every object or file in a folder at once.
 - This will be useful in creating a dataset with large objects for which custom names may be provided.
 
 > Sample
@@ -16,7 +16,7 @@
    ![image](https://user-images.githubusercontent.com/108540874/182696045-f4eacb62-6e73-45fb-b155-d83e4b84b0ec.png)
 4. Then check if the path of the folder and the number of items are correct.
     - And if yes then enter "y"
-    - if nor enter "n" and again run the code from begining.<br />
+    - if not enter "n" and again run the code from begining.<br />
       ![image](https://user-images.githubusercontent.com/108540874/182696696-0ba06d3d-c1d1-433d-a88e-c74f158ea92b.png)
 5. Then enter the **name** to be changed to:
       Names will be in the form: ***name**_**index**.filetype*<br />
